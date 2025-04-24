@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ilvira-GIS/fraud-detection-handbook/HEAD)
 # Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook
 
 ## Early access
